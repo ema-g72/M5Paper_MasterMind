@@ -1,9 +1,11 @@
 # M5Paper_MasterMind
 A MasterMind game for the M5Paper device form [M5Stack](https://docs.m5stack.com/en/core/m5paper).
 
+<img src="./Images/M5Paper_MasterMind_1.jpg" width="50%"> <img src="./Images/M5Paper_MasterMind_2.jpg" width="50%">
+
 # Build Instructions
-1. Install the board management in the Arduino IDE (TBC)
-2. Install the M5Stack development library kit for Arduino (TBC) [M5EPD](https://docs.arduino.cc/libraries/m5epd/))
+1. Install the board management in the Arduino IDE ([M5Stack](https://docs.m5stack.com/en/arduino/arduino_board))
+2. Install the M5Stack development library kit for Arduino [M5EPD](https://docs.arduino.cc/libraries/m5epd/))
 3. Load the sketch MasterMind.ino in the Arduino IDE
 4. Select the device M5Paper and the corresponding COM port
 5. Build and upload the sketch
