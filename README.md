@@ -1,7 +1,7 @@
 # M5Paper_MasterMind
 A MasterMind game for the M5Paper device form [M5Stack](https://docs.m5stack.com/en/core/m5paper).
 
-<img src="./Images/M5Paper_MasterMind_1.jpg" width="50%"> <img src="./Images/M5Paper_MasterMind_2.jpg" width="50%">
+<img src="./Images/M5Paper_MasterMind_1.jpg" width="60%"> <img src="./Images/M5Paper_MasterMind_2.jpg" width="60%">
 
 # Build Instructions
 1. Install the board management in the Arduino IDE ([M5Stack](https://docs.m5stack.com/en/arduino/arduino_board))
